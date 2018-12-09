@@ -1,3 +1,10 @@
 # Programming-for-data-analysis-project
 
-Negative correlation bewteen weight and height, regarless of the plot showing otherwise
+This read me is to explain a little about this data set about autism in children.
+
+I started by compiling a list of variables i wanted to include in my dataset which are the following:
+
+1. Age in months
+2. Jaundice
+3. Family members with autism
+4. 
