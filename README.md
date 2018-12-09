@@ -7,4 +7,7 @@ I started by compiling a list of variables i wanted to include in my dataset whi
 1. Age in months
 2. Jaundice
 3. Family members with autism
-4. 
+4. Gender
+5. ASD traits
+6. Ethnicity
+7. Age of mother
