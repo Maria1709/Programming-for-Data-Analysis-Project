@@ -20,7 +20,11 @@ I am using two datasets to allow further analysis into the data we may find by c
 
 
 To assess and diagnose autism health professionals use a checklist type questionaire to check various details about that individual. For toddlers the Qchat 10 is used and this will not just help a multidisciplinary team to diagnose the condition but also the level of serverity ranging form mild to severe autism. This is just a guide and not always a true or exact refelection of that individual but it can show where one is weak or strong in a particular area, but keep in mind depending on the day it is done and if that individual is ill or tired or nervous, scared these will all affect the outcome of this test.  
-Also a great deal of training is required for the person carrying out the screeing test to allow accuracy.
+Also a great deal of training is required for the person carrying out the screeing test to allow accuracy. There is no real test to screen and adult who may or may not have autism or even to check level of severity other than using the childrens screening check list and this is by no means an effective way to diagnose or assess an adult.
+
+
+
+
 ### Q-CHAT-10
 Quantitative Checklist for Autism in Toddlers 
 This is a quick referral guide for parents to complete about their toddler (12 – 36 months) with concerns about autism.  
