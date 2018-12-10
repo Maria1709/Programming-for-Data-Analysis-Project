@@ -16,3 +16,4 @@ I started by compiling a list of variables i wanted to include in my dataset whi
 6. Ethnicity
 7. Age of mother
 
+I am using two datasets to allow further analysis into the data we may find by comaparing toddlers and adults who have been diagnosed with Autism.
