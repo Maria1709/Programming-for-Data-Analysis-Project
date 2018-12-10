@@ -28,7 +28,7 @@ SCORING
 : For questions 1-9: if you circle an answer in columns C, D or E, score 1 point per question. For question 10: if you 
 circle an answer in columns A, B or C, score 1 point. Add points together for all ten questions. If your child scores more than 3 out of 10, the health professional may consider referring your child for a multi-disciplinary assessment.  
 
-
+![image](https://user-images.githubusercontent.com/35726074/49759307-33064b80-fcb9-11e8-8b1b-d354a4e93256.png) 
 
 
 
