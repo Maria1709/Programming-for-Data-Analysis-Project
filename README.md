@@ -17,3 +17,18 @@ I started by compiling a list of variables i wanted to include in my dataset whi
 7. Age of mother
 
 I am using two datasets to allow further analysis into the data we may find by comaparing toddlers and adults who have been diagnosed with Autism.
+
+
+
+
+### Q-CHAT-10
+Quantitative Checklist for Autism in Toddlers 
+A quick referral guide for parents to complete about their toddler (18 – 24 months) with concerns about autism.  
+SCORING
+: For questions 1-9: if you circle an answer in columns C, D or E, score 1 point per question. For question 10: if you 
+circle an answer in columns A, B or C, score 1 point. Add points together for all ten questions. If your child scores more than 3 
+out of 10, the health professional may consider referring your child for a multi-disciplinary assessment.  
+Key reference:
+ Allison C, Auyeung B, and Baron-Cohen S, (2012) 
+Journal of the American Academy of Child and Adolescent Psychiatry
+ 51(2):202-12
