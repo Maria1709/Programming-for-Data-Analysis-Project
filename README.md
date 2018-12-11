@@ -38,6 +38,10 @@ circle an answer in columns A, B or C, score 1 point. Add points together for al
 
 
 
+
+Research would tell us that autism is much higher in boys than in girls, saying in and around 5,6 times higher in boys, and this is refelected in our research also of toddlers but in our adult researhc this is not the case. Also research is now telling us that Jaundice born toddlers have a greater chance of having ASD but we can see above that this is not supported by our reasearch here.
+
+
 ## References
  Allison C, Auyeung B, and Baron-Cohen S, (2012) 
 Journal of the American Academy of Child and Adolescent Psychiatry
