@@ -4,7 +4,7 @@ This read me is to explain a little about this data set about autism in children
 
 My interest in data in this area came early in her diagnosis as we found we were doing so many therapies and interventions but at the end of a week if we had progress or regress we couldnt pin point what had caused or helped us. So with research we decided to go with ABA therapy (applied behavoural therapy) as a larger part of our multidisciplinary approach, and really just by taking data every day on how she was doing in each particular area we were working on gave us a clear indicator at the end of a week or even 3 days if it was working or not or did we need to reconsider and take another look a how and why it was not working. questioanire
 
-The reason behind this dataset in this project is to see can i find any real results to show a correlation between any of the above variables, to see is there a true connection between jaundice and these in particular. 
+The reason behind this dataset in this project is to see can i find any real results to show a correlation between any of the above variables, to see is there a true connection between jaundice and nationality in particular. 
 
 I started by compiling a list of variables i wanted to include in my dataset which are the following:
 
@@ -32,7 +32,10 @@ SCORING
 : For questions 1-9: if you circle an answer in columns C, D or E, score 1 point per question. For question 10: if you 
 circle an answer in columns A, B or C, score 1 point. Add points together for all ten questions. If your child scores more than 3 out of 10, the health professional may consider referring your child for a multi-disciplinary assessment.  
 
+
 ![image](https://user-images.githubusercontent.com/35726074/49759307-33064b80-fcb9-11e8-8b1b-d354a4e93256.png) 
+
+
 
 
 
@@ -40,12 +43,29 @@ circle an answer in columns A, B or C, score 1 point. Add points together for al
 
 
 
+
+
 Research would tell us that autism is much higher in boys than in girls, saying in and around 5,6 times higher in boys, and this is refelected in our research also of toddlers but in our adult researhc this is not the case. Also research is now telling us that Jaundice born toddlers have a greater chance of having ASD but we can see above that this is not supported by our reasearch here.
+
+
+
 
 ![image](https://user-images.githubusercontent.com/35726074/49797095-591e0100-fd36-11e8-8c00-2bde3ac624ad.png)
 
 
+
 Research shows that adults who have autism have as they get older have found techniques or therapies and interventions to help them decrease the severity of their ASD symptoms this is reflected here also in our research. But researching the same in toddlers research shows that from birth or in our case 6 months old up to 36 months old that it increases in severity as they normally present at a higer percent by the time the hit the age of 3 years while thsi is not always the case but majority it is predominantly due to late diagnosis among healthcare systems and poor education fo rfamilies in the are of ASD. Which could change the outcome of the toddler research greatly and also shows with a diagnsosis and the right interventions as an adult you could be decreasing your symptoms unlike the toddlers who are increasing in symptoms or severity.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
