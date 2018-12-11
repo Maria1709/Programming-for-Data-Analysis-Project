@@ -75,6 +75,10 @@ Name: ethnicity, dtype: int64
 
 
 
+![image](https://user-images.githubusercontent.com/35726074/49797315-ec573680-fd36-11e8-9db6-100c10e525fc.png)
+
+
+
 
 
 
