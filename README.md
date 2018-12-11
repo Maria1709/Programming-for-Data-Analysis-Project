@@ -36,6 +36,7 @@ circle an answer in columns A, B or C, score 1 point. Add points together for al
 
 
 
+![image](https://user-images.githubusercontent.com/35726074/49796992-11977500-fd36-11e8-8f29-418f0652b634.png)
 
 
 
