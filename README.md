@@ -60,6 +60,17 @@ Research shows that adults who have autism have as they get older have found tec
 
 
 
+White-European       109
+Black                 18
+Asian                 16
+Latino                10
+Others                 9
+'Middle Eastern '      8
+Hispanic               5
+'South Asian'          3
+Pasifika               1
+Turkish                1
+Name: ethnicity, dtype: int64
 
 
 
@@ -69,6 +80,8 @@ Research shows that adults who have autism have as they get older have found tec
 
 
 
+
+This particular chart really shows us how close we are predisosed as white europeans to be diagnosed with ASD in comparison to other nationalities and this is also the case in many other research documents so we are definitely seeing some kind of link but nothing so far to show why this is the case. But certainly warrants futher investigation into this particular area.
 ## References
  Allison C, Auyeung B, and Baron-Cohen S, (2012) 
 Journal of the American Academy of Child and Adolescent Psychiatry
