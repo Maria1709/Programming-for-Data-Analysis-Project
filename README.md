@@ -43,6 +43,11 @@ circle an answer in columns A, B or C, score 1 point. Add points together for al
 Research would tell us that autism is much higher in boys than in girls, saying in and around 5,6 times higher in boys, and this is refelected in our research also of toddlers but in our adult researhc this is not the case. Also research is now telling us that Jaundice born toddlers have a greater chance of having ASD but we can see above that this is not supported by our reasearch here.
 
 
+
+Research shows that adults who have autism have as they get older have found techniques or therapies and interventions to help them decrease the severity of their ASD symptoms this is reflected here also in our research. But researching the same in toddlers research shows that from birth or in our case 6 months old up to 36 months old that it increases in severity as they normally present at a higer percent by the time the hit the age of 3 years while thsi is not always the case but majority it is predominantly due to late diagnosis among healthcare systems and poor education fo rfamilies in the are of ASD. Which could change the outcome of the toddler research greatly and also shows with a diagnsosis and the right interventions as an adult you could be decreasing your symptoms unlike the toddlers who are increasing in symptoms or severity.
+
+
+
 ## References
  Allison C, Auyeung B, and Baron-Cohen S, (2012) 
 Journal of the American Academy of Child and Adolescent Psychiatry
