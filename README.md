@@ -19,10 +19,15 @@ The reason behind this dataset in this project is to see can i find any real res
 References:
 
 https://learnonline.gmit.ie/course/view.php?id=461
+
 https://learnonline.gmit.ie/course/view.php?id=515
+
 https://matplotlib.org/users/pyplot_tutorial.html
+
 http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
+
 https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
+
 https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.correlate.html
 https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult
