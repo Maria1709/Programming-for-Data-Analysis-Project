@@ -29,9 +29,13 @@ http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
 https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
 
 https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python
+
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.correlate.html
+
 https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult
+
 https://ndar.nih.gov/download.html?short_name=ados2_200701
+
 https://www.kaggle.com/fabdelja/autism-screening-for-toddlers/version/1
 
 
